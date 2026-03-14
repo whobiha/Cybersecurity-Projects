@@ -11,7 +11,7 @@ Description:
 
 Screenshots:
 **Nmap Scan:**  
-![Nmap Scan](nmap.png)
+![Nmap Scan](nmapscan.png)
 
 **Metasploit Output:**  
 ![Metasploit Output](metasploitip.png)
